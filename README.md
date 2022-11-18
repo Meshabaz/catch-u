@@ -11,7 +11,7 @@ Animated upside down plot from stranger things move using JavaScript.
 
 ## live website
 
-https://peter-kimanzi.github.io/Stranger-things-animation/
+https://meshabaz.github.io/catch-u/
 
 ## video clip
 
